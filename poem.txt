@@ -6,3 +6,6 @@ sol
 la
 si 
 Do
+Do
+si
+laaaa
